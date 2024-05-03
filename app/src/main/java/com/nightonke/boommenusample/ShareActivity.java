@@ -2,11 +2,12 @@ package com.nightonke.boommenusample;
 
 import android.graphics.Color;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
 import com.nightonke.boommenu.BoomMenuButton;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class ShareActivity extends AppCompatActivity {
 

@@ -1,7 +1,6 @@
 package com.nightonke.boommenusample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -18,6 +17,8 @@ import com.nightonke.boommenu.Util;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class ButtonPlaceAlignmentActivity extends AppCompatActivity {
 

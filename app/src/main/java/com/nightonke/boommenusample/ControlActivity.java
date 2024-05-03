@@ -1,10 +1,11 @@
 package com.nightonke.boommenusample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.nightonke.boommenu.BoomMenuButton;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class ControlActivity extends AppCompatActivity implements View.OnClickListener {
 

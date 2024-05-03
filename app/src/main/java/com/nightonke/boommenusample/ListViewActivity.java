@@ -1,7 +1,6 @@
 package com.nightonke.boommenusample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +10,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import com.nightonke.boommenu.BoomMenuButton;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class ListViewActivity extends AppCompatActivity {
 

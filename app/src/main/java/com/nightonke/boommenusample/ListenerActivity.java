@@ -1,7 +1,6 @@
 package com.nightonke.boommenusample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.TextView;
 
@@ -14,6 +13,8 @@ import com.nightonke.boommenu.ButtonEnum;
 import com.nightonke.boommenu.OnBoomListener;
 import com.nightonke.boommenu.OnBoomListenerAdapter;
 import com.nightonke.boommenu.Piece.PiecePlaceEnum;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class ListenerActivity extends AppCompatActivity {
 
